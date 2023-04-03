@@ -1,4 +1,4 @@
-Basic tensorflow and pytorch commands such as :
+In this repository you can see and understand the basic tensorflow and pytorch commands such as :
 TENSORFLOW
 a. Construct an n-dimensional tensor in TensorFlow.
 b. Compute the sum, mean, or standard deviation of all elements in a tensor.
