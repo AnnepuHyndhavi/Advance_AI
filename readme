@@ -9,7 +9,6 @@ based on certain conditions.
 e. Define and call functions in TensorFlow, and pass tensors as arguments to functions.
 
 PYTORCH
-8. Basic PyTorch Question - 10 points
 a. Construct an n-dimensional tensor in PyTorch.
 b. Compute the sum, mean, or standard deviation of all elements in a tensor.
 c. Perform mathematical operations on tensors, such as finding the maximum or minimum
